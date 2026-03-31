@@ -1,12 +1,17 @@
 ST10489441
 Portfolio of Evidence Website
+
 business case/proposal
+
 MISOKUHLE NATURAL HAIR:
+
 BUSINESS CASE
+
 Startup funding and growth strategy
 Company Name & Date
 Company Name: Misokuhle Natural Hair
 Date: [21/02/2026]
+
 Market Problem
 Many individuals with natural hair face challenges such as:
 Lack of accessible, high-quality natural hair products.
@@ -21,15 +26,18 @@ Personalized hair care consultations: Tailored advice and guidance to address in
 natural hair needs.
 House calls: Do hair at the comfort of your own home 
 Event styling: Wedding,graduations,corporate events 
+
 Unique Value Proposition:
 We combine traditional African hair care wisdom with modern scientific research to create effective 
 and sustainable solutions for natural hair.
+
 Target Market
 Customer Segments:
 Natural hair enthusiasts: Actively seeking healthy and sustainable hair care solutions.
 Transitioners: Individuals transitioning from relaxed to natural hair.
 Parents of children with natural hair: Seeking gentle and effective products for their children's 
 hair.
+
 Location: [Midrand]
 Traits:
 Eco-conscious
@@ -56,12 +64,14 @@ Targeted social media advertising.
 Email marketing campaigns.
 Content marketing (blog posts, videos, tutorials).
 Public relations and media outreach.
+
 Site Map:
 Home page
 About page 
 Contact page 
 Index page
 Services page
+
 Funding Requirements
 Seeking [R650,000] in funding to support:
 Expense
