@@ -73,6 +73,7 @@ Index page
 Services page
 
 Funding Requirements
+
 Seeking [R650,000] in funding to support:
 Expense
 Amount
@@ -91,6 +92,8 @@ Legal & Administrative
 [R150,000]
 [R180,000]
 [R50,000]
+
+
 Financial Forecast (12-24 Months)
 Projected financial performance for the next 12-24 months:
 Metric
@@ -113,6 +116,8 @@ Runway (Months)
 [6 months]
 [The year 2 forecast assumes that  Misokuhle Natural Hair Salon has successfully completed  its 
 start-up phase and established a stable customer base in its local market  ]
+
+
 Key Milestones
 Milestone Target Date
 Secure First Retail Partnership [2021]
