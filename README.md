@@ -12,6 +12,7 @@ Many individuals with natural hair face challenges such as:
 Lack of accessible, high-quality natural hair products.
 Limited education and resources on proper natural hair care.
 Negative societal perceptions of natural hair.
+
 Product/Service Overview
 Misokuhle Natural Hair provides:
 Handcrafted, all-natural hair care products: Made with ethically sourced ingredients and free 
