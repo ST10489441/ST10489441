@@ -55,6 +55,12 @@ Targeted social media advertising.
 Email marketing campaigns.
 Content marketing (blog posts, videos, tutorials).
 Public relations and media outreach.
+Site Map:
+Home page
+About page 
+Contact page 
+Index page
+Services page
 Funding Requirements
 Seeking [R650,000] in funding to support:
 Expense
